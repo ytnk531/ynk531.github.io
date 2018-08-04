@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yudai Tanaka on </title>
-    <link>https://example.com/</link>
+    <link>https://ytnk531.github.io/</link>
     <description>Recent content in Yudai Tanaka on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ytnk531.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About Me</title>
-      <link>https://example.com/about/</link>
+      <link>https://ytnk531.github.io/about/</link>
       <pubDate>Thu, 02 Aug 2018 02:02:36 +0900</pubDate>
       
-      <guid>https://example.com/about/</guid>
+      <guid>https://ytnk531.github.io/about/</guid>
       <description> Yudai Tanaka 社会人2年目、26歳、ソフトウェアエンジニアです。
 エンタープライズのWebアプリケーションを作っています。
 Java, SpringFramewok, Scalaを使います。
@@ -29,10 +29,10 @@ Java, SpringFramewok, Scalaを使います。
     
     <item>
       <title>Portfolio</title>
-      <link>https://example.com/portfolio/</link>
+      <link>https://ytnk531.github.io/portfolio/</link>
       <pubDate>Thu, 02 Aug 2018 00:12:07 +0900</pubDate>
       
-      <guid>https://example.com/portfolio/</guid>
+      <guid>https://ytnk531.github.io/portfolio/</guid>
       <description> 作ったもの ソートするやつ 
 Demo
 Source Code
